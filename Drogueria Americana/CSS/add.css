@@ -1,0 +1,28 @@
+h1{
+	font-family: verdana;
+	font:bold;
+}
+body{
+	background: #DAF7A6;
+}
+
+input{
+	height: 45px;
+	width: 500px;
+}
+textarea{
+	height: 100px;
+	width: 500px;
+}
+.btn-submit{
+		   text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+     border-spacing: 45px;
+     transition: 2s;
+}
